@@ -1,0 +1,2 @@
+com.techmarket.controller.TransferenciaController=org.springframework.stereotype.Component
+com.techmarket.service.TransferenciaService=org.springframework.stereotype.Component

@@ -1,0 +1,2 @@
+com.techmarket.controller.TransferenciaController
+com.techmarket.controller.TransferenciaRequest
